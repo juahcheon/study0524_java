@@ -9,7 +9,7 @@ public class ExConditionalOperation {
 		
 		int math = 85;
 		
-		char grade = (math>90) ? 'lets go home' : 'B';
+		char grade = (math>90) ? 'A' : 'B';
 		System.out.println("grade : " + grade);
 		
 		// if~else 구문이랑 같음
